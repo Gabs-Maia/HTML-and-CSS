@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color:aqua;
+
+}
+.card-container{
+    background-color: blue;
+    border-radius: 10%;
+}
+.card-content{
+    background-color: red;
+    border-radius: 15%;
+}
+.card-wrapper{
+    background-color: yellow;
+    border-radius: 20%;
+}
+
+.card{
+    background-color: black;
+    border-radius: 30%;
+}
+.card-img{
+    height: 200px;
+}
